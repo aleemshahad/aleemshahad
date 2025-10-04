@@ -2,7 +2,7 @@
 
 ![AI Trading Animation](https://raw.githubusercontent.com/aleemshahad/aleemshahad/main/assets/brain-animation.gif)
 
-Welcome to the future of AI-powered trading.
+**Yeyeyeyeeyy! Welcome to the future of AI-powered trading.**
 
 ---
 
@@ -11,3 +11,7 @@ Welcome to the future of AI-powered trading.
 - Neural network-based decision making
 - Real-time pattern recognition
 - Adaptive risk optimization
+
+---
+
+![Party](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
