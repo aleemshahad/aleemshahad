@@ -1,15 +1,12 @@
-# 🧠✨🚀 Next Level BRAIN 🚀✨🧠
+## 🌟 Professional Journey
 
-![AI Trading Animation](https://raw.githubusercontent.com/aleemshahad/aleemshahad/main/assets/brain-animation.gif)
+I'm **Muhammad Aleem Shahzad**, a passionate digital marketing professional and Python automation expert with over 5 years of experience in creating innovative solutions for businesses and traders.
 
-**Yeyeyeyeeyy! Welcome to the future of AI-powered trading.**
+My expertise spans across:
 
----
+- 🔍 SEO optimization to boost online visibility
+- 🤖 Automated trading systems for smarter financial decisions
+- 🧲 Data scraping to unlock valuable insights
+- 📈 Comprehensive digital marketing strategies that drive real results
 
-## Key Features
-
-- Neural network-based decision making
-- Real-time pattern recognition
-- Adaptive risk optimization
-
----
+Let's connect and explore how technology and strategy can transform your business.
