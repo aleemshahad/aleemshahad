@@ -246,7 +246,9 @@ Experimental algorithmic trading infrastructure focused on strategy development 
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="[https://github.com/aleemshahad?tab=achievements"/>
+  <a href="https://github.com/aleemshahad?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements" />
+  </a>
 </p>
 
 ---
